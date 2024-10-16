@@ -48,7 +48,7 @@ You can check the example below to learn how to create a list.
            "chainId": 1, #ChainId, which is currently 1
            "address": "TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9", #Token address
            "name": "BitCoin", #Token name
-           "symbol": "BTC", #Token symbol
+           "symbol: "BTC", #Token symbol
            "decimals": 8, #Token decimals
            "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png" #Token logo uri
        },
